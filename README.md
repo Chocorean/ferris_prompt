@@ -1,7 +1,6 @@
 # ferris_prompt
 
-This bash function displays 🦀 in your prompt when you are in a Rust project
-(sub)directory.
+This bash function displays 🦀 in your prompt when you are in a Cargo-powered Rust project (sub)directory.
 
 ## Use case
 
