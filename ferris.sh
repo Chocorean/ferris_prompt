@@ -4,7 +4,7 @@ function ferris() {
   path=$(pwd)
   while [[ "$path" != "/" ]]; do
     if [ -f "$path/Cargo.toml" ]; then
-      echo "🦀 "
+      echo " 🦀"
       exit 0
     fi
     cd ..
